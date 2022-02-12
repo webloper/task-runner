@@ -1,0 +1,17 @@
+{
+    "name": "webloper/task-runner",
+    "description": "A very simple task runner in PHP 8.",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "9.5.x-dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ravi Kumar",
+            "email": "webloper@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
