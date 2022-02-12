@@ -1,5 +1,7 @@
 # Task Runner
 
+[![tests](https://github.com/webloper/task-runner/actions/workflows/tests.yml/badge.svg)](https://github.com/webloper/task-runner/actions/workflows/tests.yml)
+
 A very simple task runner in PHP 8.
 
 
