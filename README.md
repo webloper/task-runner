@@ -9,6 +9,8 @@ A very simple task runner in PHP 8.
 $ composer require webloper/task-runner
 ```
 
+## Usage
+
 ```php
 $runner = Runner::prepare([]);
 
